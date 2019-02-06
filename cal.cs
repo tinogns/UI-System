@@ -6,7 +6,7 @@ namespace ComSciDev.Com.CSharp.MultiplicationOne
     {
         static void Main(string[] args)
         {
-            Console.Write("Input number : 123");
+            Console.Write("Input number : 12344");
             
             int mul = int.Parse(Console.ReadLine());
             Console.WriteLine();
